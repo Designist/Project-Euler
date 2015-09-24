@@ -41,7 +41,7 @@
 		E19C311D1BB3A83700A6FB47 = {
 			isa = PBXGroup;
 			children = (
-				E19C31281BB3A83700A6FB47 /* Project-Euler */,
+				E19C31281BB3A83700A6FB47 /* Problems */,
 				E19C31271BB3A83700A6FB47 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,11 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E19C31281BB3A83700A6FB47 /* Project-Euler */ = {
+		E19C31281BB3A83700A6FB47 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
 				E19C31301BB3A92800A6FB47 /* Problem-1.cpp */,
 			);
+			name = Problems;
 			path = "Project-Euler";
 			sourceTree = "<group>";
 		};
@@ -235,6 +236,7 @@
 				E19C312F1BB3A83700A6FB47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
