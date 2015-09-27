@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main()
+int main1()
 {
     int sum = 0;
     for (int i = 0; i < 1000; i++)
@@ -18,4 +18,7 @@ int main()
         }
     }
     std::cout << sum << std::endl;
+    return 0;
 }
+
+// Solution : 233168
